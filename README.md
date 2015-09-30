@@ -10,7 +10,7 @@ The following assumptions were made:
 - each drawing contains a loop somewhat halfway
 
 Improvements  
-
+- recode to use polar instead of cartsian base for all of that
 - reconsider the vertice-generation algorithm and apply more constraints to get better results
 - go obejct-oriented
 
